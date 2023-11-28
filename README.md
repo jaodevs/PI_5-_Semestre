@@ -19,4 +19,12 @@ O objetivo é unir a tecnologia ao autocuidado, proporcionando aos usuários uma
 - [Guilherme Teixeira Ais](https://github.com/guilhermeais)
 - [João Vitor Vasconcellos](https://github.com/jaodevs)
 
+  ## Repositórios
+- [Backend Github](https://github.com/guilhermeais/PI_5_DISEASE_PROGNOSIS)
+- [health_check_app](https://github.com/JoaoMiguelv/health_check_app)
+
+  ## Youtube
+  - [Vídeo](https://www.youtube.com/watch?v=BcNHzj62Eto)
+
+
 
